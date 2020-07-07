@@ -1,2 +1,2 @@
-# Pofit-prediction_Heroku
+# Profit prediction Heroku Deployment
 Predicting Profit of a startup
